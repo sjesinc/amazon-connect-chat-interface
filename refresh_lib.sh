@@ -1,0 +1,4 @@
+rm -rf /Users/srinathjagannathan/Projects/active_projects/ac_projects/amazon-connect-desktop/src/lib/amazon-connect-chat-interface-enhanced.js
+rm -rf /Users/srinathjagannathan/Projects/active_projects/ac_projects/amazon-connect-desktop/src/lib/amazon-connect-chat-interface-enhanced.js.map 
+cp build/dist/static/js/amazon-connect-chat-interface-enhanced.js /Users/srinathjagannathan/Projects/active_projects/ac_projects/amazon-connect-desktop/src/lib
+cp build/dist/static/js/amazon-connect-chat-interface-enhanced.js.map /Users/srinathjagannathan/Projects/active_projects/ac_projects/amazon-connect-desktop/src/lib
